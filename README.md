@@ -31,13 +31,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,mysql" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,php,dotnet,django,flask" />
   </a>
 </p>
 
