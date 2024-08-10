@@ -28,27 +28,19 @@
 <div align="center">
   
 <h3>⚒️ - Tools, Languages and Frameworks - ⚒️<h3>
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="15" /> 
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="15" />
 
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
+  </a>
+</p>
+
 
 
 
