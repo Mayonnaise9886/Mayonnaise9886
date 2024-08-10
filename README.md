@@ -24,11 +24,12 @@
 
 </div>
 
-<br/><br/>
-
+<br/>
 <div align="center">
-<h3>⚒️ - Languages, Tools and Frameworks<h3>
-  <br>
+  
+<h3>⚒️ - Tools, Languages and Frameworks - ⚒️<h3>
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
