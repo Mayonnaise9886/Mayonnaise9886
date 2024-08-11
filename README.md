@@ -48,13 +48,8 @@
 </p>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mayonnaise9886/Mayonnaise9886/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
+<h4>🐍 - Commit History<h4>
+<img src="https://raw.githubusercontent.com/Mayonnaise9886/Mayonnaise9886/output/snake.svg" alt="Snake animation" height="150" />
 
 
 
