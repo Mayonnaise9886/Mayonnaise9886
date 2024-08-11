@@ -50,7 +50,7 @@
 <br/>
 
 <div align="center">
-<h4> 🐍 Slithering towards the juciy yet scarce commits 🐍<h4>
+<h4> 🐍 Slithering towards the juicy yet scarce commits 🐍<h4>
 <img src="https://raw.githubusercontent.com/Mayonnaise9886/Mayonnaise9886/output/snake.svg" alt="Snake animation" height="150" />
 
 
