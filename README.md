@@ -40,13 +40,20 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,python" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,php,dotnet,django,flask" />
   </a>
 </p>
 
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mayonnaise9886/Mayonnaise9886/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 
