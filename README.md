@@ -11,17 +11,20 @@
 
 <br/>
 
-<div align="center"> 
-  <a href="mailto:robertpintilie55@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/-Blank for now-" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://Mayonnaise9886.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
-
+<div align="center">
+  <div style="margin-bottom: 10px;">
+    <a href="mailto:robertpintilie55@gmail.com" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&style=flat-square" alt="Gmail Badge" width="80" height="25" />
+    </a>
+  </div>
+  <div style="display: inline-block;">
+    <a href="https://linkedin.com/in/-Blank for now-" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="30" />
+    </a>
+    <a href="https://Mayonnaise9886.github.io" target="_blank" style="text-decoration: none; margin-left: 10px;">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" width="120" height="30" />
+    </a>
+  </div>
 </div>
 
 <br/>
