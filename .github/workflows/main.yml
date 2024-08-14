@@ -18,6 +18,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -29,12 +32,10 @@ jobs:
           git config --global user.name "Mayonnaise9886"
           git config --global user.email "robertpintilie55@gmail.com"
 
-      - name: push snake.svg to the output and main branches
+      - name: Commit and push changes
         run: |
-          git checkout -b output
           git add dist/snake.svg
           git commit -m "Update snake animation"
-          git push origin output
           git push origin master
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
