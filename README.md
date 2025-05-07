@@ -9,15 +9,6 @@
 
 <br/>
 
-<style>
-  .social-icons img {
-    filter: brightness(0) invert(1);
-    width: 40px;
-    height: 40px;
-    margin: 0 8px;
-  }
-</style>
-
 <div class="social-icons" align="center">
   <a href="mailto:robertpintilie55@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail"/>
