@@ -9,15 +9,24 @@
 
 <br/>
 
-<div align="center">
-  <a href="mailto:robertpintilie55@gmail.com" style="margin:0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+<style>
+  .social-icons img {
+    filter: brightness(0) invert(1);
+    width: 40px;
+    height: 40px;
+    margin: 0 8px;
+  }
+</style>
+
+<div class="social-icons" align="center">
+  <a href="mailto:robertpintilie55@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/…" style="margin:0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/pintilie-robert-b39312288/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn"/>
   </a>
-  <a href="https://robertpintilie.com" style="margin:0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/website.svg" alt="Portfolio" width="40" height="40"/>
+  <a href="https://robertpintilie.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/website.svg" alt="Portfolio"/>
   </a>
 </div>
 
@@ -27,7 +36,7 @@
 
 <h3 align="center">⚒️ Tools, Languages & Frameworks ⚒️</h3>
 
-<div align="center" style="margin-top: 24px;>
+<div align="center" style="margin-top: 50px;>
   
   <div style="display: grid; grid-template-columns: repeat(4, auto); gap: 10px;">
     <img src="https://skillicons.dev/icons?i=vscode,docker" />
