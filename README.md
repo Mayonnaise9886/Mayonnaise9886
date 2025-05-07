@@ -10,14 +10,23 @@
 <br/>
 
 <div class="social-icons" align="center">
-  <a href="mailto:robertpintilie55@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail"/>
+  <a href="mailto:robertpintilie55@gmail.com" style="margin: 0 8px;">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
+      alt="Gmail"
+      style="width:32px; height:32px; filter: brightness(0) invert(1);" />
   </a>
-  <a href="https://www.linkedin.com/in/pintilie-robert-b39312288/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/pintilie-robert-b39312288/" style="margin: 0 8px;">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
+      alt="LinkedIn"
+      style="width:32px; height:32px; filter: brightness(0) invert(1);" />
   </a>
-  <a href="https://robertpintilie.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/website.svg" alt="Portfolio"/>
+  <a href="https://robertpintilie.com" style="margin: 0 8px;">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/website.svg"
+      alt="Portfolio"
+      style="width:32px; height:32px; filter: brightness(0) invert(1);" />
   </a>
 </div>
 
