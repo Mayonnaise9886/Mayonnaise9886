@@ -36,7 +36,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,docker" />
       
 <div style="display: grid; grid-template-columns: repeat(4, auto); gap: 10px; margin-bottom: 16px;">
-    <img src="https://skillicons.dev/icons?i=angular,springboot,dotnet,nodejs" />
+    <img src="https://skillicons.dev/icons?i=angular,spring,dotnet,nodejs" />
   </div>
   </div>
   
