@@ -27,25 +27,23 @@
 
 <br/>
 <div align="center">
-  
-<h3>⚒️ - Tools, Languages and Frameworks - ⚒️<h3>
 
 <h3 align="center">⚒️ Tools, Languages & Frameworks ⚒️</h3>
 
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(6, auto); gap: 10px; margin-bottom: 16px;">
-    <img src="https://skillicons.dev/icons?i=cs,java,ts,html,css,mysql" />
-  </div>
-
-  <div style="display: grid; grid-template-columns: repeat(4, auto); gap: 10px; margin-bottom: 16px;">
+  
+  <div style="display: grid; grid-template-columns: repeat(4, auto); gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=vscode,docker" />
+      
+<div style="display: grid; grid-template-columns: repeat(4, auto); gap: 10px; margin-bottom: 16px;">
     <img src="https://skillicons.dev/icons?i=angular,springboot,dotnet,nodejs" />
   </div>
-
-  <div style="display: grid; grid-template-columns: repeat(4, auto); gap: 10px;">
-    <img src="https://skillicons.dev/icons?i=git,vscode,docker,githubactions" />
+  </div>
+  
+<div style="display: grid; grid-template-columns: repeat(6, auto); gap: 10px; margin-bottom: 16px;">
+    <img src="https://skillicons.dev/icons?i=cs,java,ts,html,css,mysql" />
   </div>
 </div>
-
 
 <br/>
 
