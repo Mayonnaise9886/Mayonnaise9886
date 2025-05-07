@@ -10,27 +10,24 @@
 <br/>
 
 <div align="center">
-  <div style="margin-bottom: 10px;">
-    <a href="mailto:robertpintilie55@gmail.com" style="text-decoration: none;">
-      <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&style=flat-square" alt="Gmail Badge" width="80" height="25" />
-    </a>
-  </div>
-  <div style="display: inline-block;">
-    <a href="https://www.linkedin.com/in/pintilie-robert-b39312288/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="30" />
-    </a>
-    <a href="robertpintilie.com" target="_blank" style="text-decoration: none; margin-left: 10px;">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" width="120" height="30" />
-    </a>
-  </div>
+  <a href="mailto:robertpintilie55@gmail.com" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/…" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://robertpintilie.com" style="margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/website.svg" alt="Portfolio" width="40" height="40"/>
+  </a>
 </div>
+
 
 <br/>
 <div align="center">
 
 <h3 align="center">⚒️ Tools, Languages & Frameworks ⚒️</h3>
 
-<div align="center">
+<div align="center" style="margin-top: 24px;>
   
   <div style="display: grid; grid-template-columns: repeat(4, auto); gap: 10px;">
     <img src="https://skillicons.dev/icons?i=vscode,docker" />
