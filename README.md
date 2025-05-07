@@ -12,23 +12,24 @@
 <div class="social-icons" align="center">
   <a href="mailto:robertpintilie55@gmail.com" style="margin: 0 8px;">
     <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail"
-      style="width:32px; height:32px; filter: brightness(0) invert(1);" />
+      height="32" />
   </a>
   <a href="https://www.linkedin.com/in/pintilie-robert-b39312288/" style="margin: 0 8px;">
     <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
-      style="width:32px; height:32px; filter: brightness(0) invert(1);" />
+      height="32" />
   </a>
   <a href="https://robertpintilie.com" style="margin: 0 8px;">
     <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/website.svg"
+      src="https://img.shields.io/badge/Portfolio-FF6347?style=for-the-badge&logo=link&logoColor=white"
       alt="Portfolio"
-      style="width:32px; height:32px; filter: brightness(0) invert(1);" />
+      height="32" />
   </a>
 </div>
+
 
 <br/>
 <div align="center">
