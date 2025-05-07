@@ -3,8 +3,8 @@
 </h1>
 
 <h4 align="center" style="font-family: 'Courier New', monospace; color: red;">
-  I turn caffeine into code and bugs into features 😎<br/><br/>
-  Born and brewed in Romania, where I skillfully 'borrow' code and make it my own.
+  I turn caffeine into code and bugs into features :)<br/><br/>
+  Born and brewed in Romania!
 </h4>
 
 <br/>
@@ -16,10 +16,10 @@
     </a>
   </div>
   <div style="display: inline-block;">
-    <a href="https://linkedin.com/in/-Blank for now-" target="_blank" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/pintilie-robert-b39312288/" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="30" />
     </a>
-    <a href="https://Mayonnaise9886.github.io" target="_blank" style="text-decoration: none; margin-left: 10px;">
+    <a href="robertpintilie.com" target="_blank" style="text-decoration: none; margin-left: 10px;">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" width="120" height="30" />
     </a>
   </div>
@@ -30,23 +30,22 @@
   
 <h3>⚒️ - Tools, Languages and Frameworks - ⚒️<h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,mysql" />
-  </a>
-</p>
+<h3 align="center">⚒️ Tools, Languages & Frameworks ⚒️</h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python" />
-  </a>
-</p>
+<div align="center">
+  <div style="display: grid; grid-template-columns: repeat(6, auto); gap: 10px; margin-bottom: 16px;">
+    <img src="https://skillicons.dev/icons?i=cs,java,ts,html,css,mysql" />
+  </div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,dotnet,django,flask" />
-  </a>
-</p>
+  <div style="display: grid; grid-template-columns: repeat(4, auto); gap: 10px; margin-bottom: 16px;">
+    <img src="https://skillicons.dev/icons?i=angular,springboot,dotnet,nodejs" />
+  </div>
+
+  <div style="display: grid; grid-template-columns: repeat(4, auto); gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=git,vscode,docker,githubactions" />
+  </div>
+</div>
+
 
 <br/>
 
